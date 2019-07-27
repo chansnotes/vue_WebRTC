@@ -10,7 +10,6 @@
     </v-app-bar>
 
     <v-content>
-      <HelloWorld/>
       <RTCPeer/>
     </v-content>
   </v-app>
